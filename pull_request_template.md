@@ -1,3 +1,3 @@
 ## Description
 
-[ ] Code Patterns
+- [ ] Code Patterns
