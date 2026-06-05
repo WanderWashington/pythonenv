@@ -2,3 +2,5 @@
 
 - [ ] Code Patterns
 - [ ] Unit Tests
+
+## Author
